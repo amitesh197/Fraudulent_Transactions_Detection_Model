@@ -15,4 +15,4 @@ The repository includes the following key components:
 
 6. Documentation: Additional documentation, if available, describing the dataset, the methodologies used, and any relevant information about the project.
 
-This repository serves as a comprehensive resource for implementing and evaluating fraud detection models using different machine learning algorithms. It provides code, visualizations, and insights that can be used as a reference for similar projects or as a starting point for further research and development in fraud prediction.
+This repository serves as a comprehensive resource for implementing and evaluating fraud detection models using different machine learning algorithms. It provides code, visualizations, and insights that can be used as a reference for similar projects or as a starting point for further research and development in fraud detection.

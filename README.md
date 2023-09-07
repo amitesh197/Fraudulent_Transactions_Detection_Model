@@ -1,7 +1,7 @@
 # Fraudulent Transactions Detection Model
 This GitHub repository contains the code and analysis for a fraud detection model using various machine learning algorithms, including logistic regression, k-nearest neighbors, random forest classifier, support vector machine (SVM), decision tree, Gaussian naive Bayes, XGBoost, and hyperparameter tuning. The goal of this project was to develop an effective fraud detection system using different classifiers and evaluate their performance using precision, recall, F1-score, and accuracy metrics.
 
-The repository includes the following key components:
+The repository includes the following key components :-
 
 1. Data: The dataset used for training and evaluation, which contains transactional data with labeled fraudulent and non-fraudulent transactions.
 
